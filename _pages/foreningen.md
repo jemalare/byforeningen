@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Föreningen
+category: navigation
+order: 2
 ---
 
 # Medlemskap

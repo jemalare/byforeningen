@@ -1,5 +1,7 @@
 ---
 layout: page
+category: navigation
+order: 3
 ---
 
 Följande texter är utdrag ur *Kulturmiljöer i Gagnefs kommun, en kulturhistorisk miljöanalys* av Maria Norell och Kjell Sundström, Dalarnas museums serie av rapporter: 17 från 1993. ISBN: 91-87466-00-7

@@ -1,5 +1,7 @@
 ---
 layout: page
+category: navigation
+order: 1
 ---
 # Bystugan
 
