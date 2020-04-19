@@ -1,0 +1,15 @@
+{%- if site.texture.showNav -%}
+<div class="navbar">
+	<ul>
+		<a href="/">
+			<li>Aktiviteter</li>
+		</a>
+		{% assign pages = site.pages | where: "category", "navigation" | sort: "order" %}
+		{% for page in pages %}
+		<a href="{{ page.url }}">
+			<li>{{ page.title }}</li>
+		</a>
+		{% endfor %}
+	</ul>
+</div>
+{%- endif -%}
