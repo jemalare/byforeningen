@@ -1,12 +1,14 @@
 remote_theme: jemalare/texture
 
-title: Byföreningen
+title: Gagnefsbyn.se
 author: Jens Målare
 email: info@gagnefsbyn.se
+lang: sv
 description: > # this means to ignore newlines until "show_exerpts:"
-  Byföreningen för Nordåker, Gagnefsbyn, Nordbäck och Älvnäs byar.
-  Läs om byarna, bystugan, föreningen och få information om
-  de aktiviteter vi ordnar.
+  Välkommen till byföreningens hemsida! Läs om byarna, bystugan, föreningen 
+  och få information om de aktiviteter vi ordnar. Här finns också notiser och
+  dokument från vår syskonförening _Nordåker-Gagnefsbyns vägsamfällighet_.
+  Bystugan är vår samlingslokal och du får gärna [hyra den](bystugan) för fest eller möten!
 show_excerpts: true # set to true to show excerpts on the homepage
 # baseurl: /
 permalink: /posts/:title/
