@@ -19,5 +19,5 @@ För att enklast komma i kontakt med styrelsen, använd e-postadress vagforening
 
 # Dokument
 
-- [Vägföreningens åtgärdslista](20180124-Vägföreningens-åtgärdslista.pdf)
-- [Vägföreningens årsmöte 2018](20180310-Vägföreningens-årsmöte-protokoll.pdf)
+- [Vägföreningens åtgärdslista](/assets/pdf/20180124-Vägföreningens-åtgärdslista.pdf)
+- [Vägföreningens årsmöte 2018](/assets/pdf/20180310-Vägföreningens-årsmöte-protokoll.pdf)
