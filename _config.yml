@@ -1,6 +1,6 @@
 remote_theme: jemalare/texture
 
-url: https://gagnefsbyn.se/
+url: https://gagnefsbyn.se
 title: Gagnefsbyn.se
 author: Jens Målare
 email: info@gagnefsbyn.se
@@ -46,3 +46,10 @@ collections:
   pages:
     output: true
     permalink: /:name
+
+defaults:
+  -
+    scope:
+      path:            "assets/**"
+    values:
+      sitemap:         false
