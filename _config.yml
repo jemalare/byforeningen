@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Bystugan är vår samlingslokal och du får gärna [hyra den](bystugan) för fest eller möten!
 show_excerpts: true # set to true to show excerpts on the homepage
 # baseurl: /
-permalink: /posts/:title/
+permalink: /posts/:year-:month-:title/
 
 texture:
   title: Byföreningen
