@@ -45,7 +45,7 @@ plugins:
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: /:name/
 
 defaults:
   -
