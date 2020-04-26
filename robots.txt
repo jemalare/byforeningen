@@ -1,0 +1,7 @@
+sitemap: https://gagnefsbyn.se/sitemap.xml
+
+user-agent: *
+disallow: /assets/
+
+user-agent: Googlebot-Image
+disallow: /
