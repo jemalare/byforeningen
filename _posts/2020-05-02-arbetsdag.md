@@ -1,4 +1,4 @@
-På lördag den 9 maj är det dags för vårens arbetsdag. Vi samlas vid bystugan klockan 9. Fika serveras vid 11-tiden.
+På lördag den 9 maj är det dags för vårens arbetsdag. Vi samlas vid bystugan klockan 9. Tag med eget fika, vi står för kaffe och saft.
 
 Det finns en lista med förslag på arbetsuppgifter. Här är en del av dem:
 
