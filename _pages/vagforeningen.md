@@ -4,6 +4,8 @@ category: navigation
 order: 4
 title: Vägarna
 ---
+![Maskros på Rena](/assets/img/vagforeningen-IMG_20200513_161347-1280x720.png)
+
 Vägsamfällighetsföreningen ansvarar för vägnätet i Nordåker, Gagnefsbyn och Nordbäck. Vägarnas namn är Byvägen, Pellesgårdarna (Pellesgattu och del av Skärpvägen), Binggattu, Larssvedsbacken, Rönnhagan, Rena och Björksjövägen. Fastighetsägare längs dessa vägar betalar hel, halv eller en fjärdedels vägavgift beroende på läge och typ av trafik till och från fastigheten. Föreningen ansvarar för vägunderhåll och snöröjning.
 
 |Vägföreningens styrelse||
