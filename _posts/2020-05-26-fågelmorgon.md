@@ -1,0 +1,1 @@
+Det blir en fågelmorgon på lördag den 30 maj med samling vid Pellesgårdarna kl 07.00. Vi vandrar till Gruvhagen via Grånssjön. Medtag fika. Färdledare är Pelle, tel. 0703-282 383.
