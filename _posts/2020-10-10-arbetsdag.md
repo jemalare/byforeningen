@@ -1,5 +1,5 @@
-På lördag den 17 oktober träffas vi vid bystugan och hjälps åt med det som behöver göras. Vi serverar
-fika förberett med hänsyn till Corona. Förslag på arbetsuppgifter är:
+På lördag den 17 oktober träffas vi vid bystugan klockan 9 och hjälps åt med det som behöver göras. Vi serverar
+fika förberett med hänsyn till Corona. Förslag på arbetsuppgifter...
 
 - Inventera och städa köket.
 - Rensa hängrännor.
