@@ -7,8 +7,8 @@ Deltagare var
 - Dan Jensfelt
 - Ann Målare
 - Gunilla och Simon Johnston
-- Manda Nahlbom och Viktor Tall m.fam.
-- Annie och Erik Gammelgård m. barn.
+- Manda Nahlbom och Viktor Tall m. fam.
+- Annie och Erik Gammelgård m. fam.
 - Jens Målare
 
 Ingrid och Gunilla hjälptes åt att rensa hängrännorna. Det var en kylig morgon och fruset i rännorna men det tinade snart. Ann gjorde köksinventeringen, sorterade och räknade bestick, kunde konstatera att en del verkar saknas. Kalle hade röjt och kvistat björk, och Viktor och Gunilla samlade ihop rishögen som kördes till brasan i Nordåker. Herman, Dan och Simon tog bort den kollapsade bron vid parkeringsplatsen för att göra diket fritt. Vi väntar med att lägga dit trumma och återfylla. Kanske det inte ska vara någon infart där? För gångstigen skulle en enklare spång räcka bra. En patrull rekognoserade vid den av Kalle och Pelle nyligen uppröjda Klockarkällan. Hänglås behövs till luckorna vid båda källorna. Vi ska fråga Gunnar Norén om han kan berätta var "Puststenen" är någonstans och sätter upp skyltarna en annan dag. Annie och Manda förberedde fika och skötte serveringen tillsammans med Ann. Tack alla ni som var med och hjälpte till idag!
