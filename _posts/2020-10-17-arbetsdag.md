@@ -1,3 +1,6 @@
+---
+published: false
+---
 Lördagen den 17 oktober träffades vi vid bystugan och hjälptes åt med lite höstunderhåll. Vi serverade fika förberett med hänsyn till Corona.
 
 Deltagare var

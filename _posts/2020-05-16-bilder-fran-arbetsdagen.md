@@ -1,4 +1,5 @@
 ---
+published: false
 title: Bilder från arbetsdagen
 ---
 Stort tack till alla som var med på arbetsdagen förra lördagen. Vi var ungefär 23 personer som arbetade i vårsolen. Allt på vår lista blev gjort!
