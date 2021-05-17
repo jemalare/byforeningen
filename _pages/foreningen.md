@@ -50,4 +50,4 @@ Byföreningens styrelse efter val vid årsmötet den 11 april 2021:
 | Pelle Florell      | Gagnefsbyn | Kassör, stugfogde | 0703-282383 |
 | Manda Nahlbom      | Gagnefsbyn |
 | Daniel Enlöf       | Nordåker   |
-| Vicor Solli        | Nordåker   |
+| Victor Solli       | Nordåker   |
