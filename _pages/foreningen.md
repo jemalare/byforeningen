@@ -29,9 +29,11 @@ Avgiften är 200 kr per hushåll, betalas till bankgiro 669-7213. Kom ihåg att
 
 Ett av byföreningens uppdrag är att arrangera aktiviteter och tillfällen för möten mellan bybor. Varje år har vi vårbrasa och midsommarfirande samt arbetsdagar på våren och hösten. När det finns möjlighet ordnar vi luciafirande och något kring jul eller trettondagshelgen. Däremellan bjuder vi in till trivselkvällar i bystugan. Där finns servering av dryck och tilltugg, ibland även film för barnen.
 
+<!--
 I kalendern nedan syns vilka aktiviteter som är planerade i närtid. Klicka på *Leta efter mer* för att se händelser längre fram i tiden.
 
 <iframe style="border-width: 0;" src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=2&amp;hl=sv&amp;bgcolor=%23ffffff&amp;src=ckqofv203meqn75295icoac4c4%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=Europe%2FStockholm" width="640" height="300" frameborder="0" scrolling="no"></iframe>
+-->
 
 # Styrelsen
 
