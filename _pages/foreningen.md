@@ -35,23 +35,17 @@ I kalendern nedan syns vilka aktiviteter som är planerade i närtid. Klicka på
 
 # Styrelsen
 
-Byföreningens styrelse efter val vid årsmöte den 29 februari 2020:
+Byföreningens styrelse efter val vid årsmötet den 11 april 2021:
 
 ## Ordinarie ledamöter
 
-| Namn                  | Bor i         | Uppdrag                   | Telefon
-|:-|:-|:-|:-|
-| Annie Gammelgård      | Nordåker      | Ordförande                | 0768-410952
-| Jens Målare           | Nordåker      | Sekreterare               | 0703-671263
-| Karl-Ivar Ehnström    | Gagnefsbyn    | Stugfogde                 | 0705-683565
-| Dan Jensfelt          | Nordbäck      |                           | 0241-61928
-| Pelle Florell         | Gagnefsbyn    | Kassör, stugfogde         | 0703-282383
-| Manda Nahlbom         | Gagnefsbyn
-
-## Ersättare
-
-| Namn                  | Telefon
-|:-|:-|
-| Lena Nordesjö         | 0241-61366
-| Lars-Olof Nordesjö    | 0241-61366
-| Daniel Enlöf          |
+| Namn               | Bor i      | Uppdrag           | Telefon     |
+| :----------------- | :--------- | :---------------- | :---------- |
+| Annie Gammelgård   | Nordåker   | Ordförande        | 0768-410952 |
+| Jens Målare        | Nordåker   | Sekreterare       | 0703-671263 |
+| Karl-Ivar Ehnström | Gagnefsbyn | Stugfogde         | 0705-683565 |
+| Dan Jensfelt       | Nordbäck   |                   | 0241-61928  |
+| Pelle Florell      | Gagnefsbyn | Kassör, stugfogde | 0703-282383 |
+| Manda Nahlbom      | Gagnefsbyn |
+| Daniel Enlöf       | Nordåker   |
+| Vicor Solli        | Nordåker   |
