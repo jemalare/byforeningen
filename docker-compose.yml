@@ -1,0 +1,13 @@
+version: "3.6"
+services:
+    jekyll:
+        image: "jekyll/jekyll:pages"
+        environment:
+            FORCE_POLLING: "true"
+            JEKYLL_ENV: "development"
+            VERBOSE: "true"
+        ports:
+            - "4000:4000"
+        volumes:
+            - ".:/srv/jekyll"
+        command: jekyll serve --watch
