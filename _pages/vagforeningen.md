@@ -2,7 +2,7 @@
 layout: page
 category: navigation
 order: 4
-title: Vägarna
+title: Vägföreningen
 ---
 ![Maskros på Rena](/assets/img/vagforeningen-IMG_20200513_161347-1280x720.png)
 
@@ -19,5 +19,6 @@ Vägsamfällighetsföreningen ansvarar för vägnätet i Nordåker, Gagnefsbyn o
 
 # Dokument
 
+- [Vägföreningens årsmöte 2022](/assets/doc/2022/2022-03-17%20V%C3%A4gf%C3%B6reningens%20%C3%A5rsm%C3%B6tesprotokoll%202022.pdf)
 - [Vägföreningens årsmöte 2020](/assets/doc/20200305-Protokoll-för-vägföreningens-årsmöte.pdf)
 - [Vägföreningens åtgärdslista](/assets/doc/20200127-Åtgärdslista-Nordåker-Gagnefsbyns-Vägsamhällighetsförening.xlsx)

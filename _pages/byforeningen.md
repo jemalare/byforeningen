@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Föreningen
+title: Byföreningen
 category: navigation
 order: 2
 ---
@@ -51,3 +51,7 @@ Byföreningens styrelse efter val vid årsmötet den 11 april 2021:
 | Manda Nahlbom      | Gagnefsbyn |
 | Daniel Enlöf       | Nordåker   |
 | Victor Solli       | Nordåker   |
+
+# Dokument
+
+- [Byföreningens årsmöte 2022](/assets/doc/2022/2022-03-26%20Byf%C3%B6reningens%20%C3%A5rsm%C3%B6tesprotokoll%202022.pdf)
