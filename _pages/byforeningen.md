@@ -18,7 +18,7 @@ Byföreningen ansvarar för drift och underhåll av bystugan. Detta finansieras 
 
 <div style="float: right; padding-left: 20px;">
 <p style="text-align: center;">
-<strong><span style="color: #ff6600; font-size: 300%;">200 KR</span></strong><br>
+<strong><span style="color: #ff6600; font-size: 300%;">250 KR</span></strong><br>
 <span style="color: #ff6600; font-size: 200%;">669-7213</span>
 </p>
 </div>
