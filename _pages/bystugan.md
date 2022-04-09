@@ -13,7 +13,7 @@ Lokalen består av hall, toalett, storstuga och kök. Köket är utrustat med ky
 
 # Uthyrning
 
-För bokning och övriga frågor kontaktas i första hand stugfogdar Pelle och Karin Florell på telefon 0703-282 383 eller 0241-615 90, alternativt vice stugfogdar Lena och Lars-Olof Nordesjö på telefon 0241-613 66.
+För bokning och övriga frågor kontaktas stugfogde Pelle Florell på tel. 0703-282383 eller Karl-Ivar Ehnstöm på tel. 0705-683565.
 
 Det går förstås bra att hyra bystugan flera dygn i följd.
 
