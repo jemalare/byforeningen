@@ -26,15 +26,15 @@ Vid fester och barnkalas hyrs lokalen per dygn, kl. 12-12.
 | Ändamål | Hyresman                    | Pris
 |:-|:-|:-|
 | Fester
-|       | Medlem                        | 300 kr
-|       | Ej medlem                     | 600 kr
+|       | Medlem                        | 350 kr
+|       | Ej medlem                     | 650 kr
 | Kalas
-|       | Barn och ungdomar i byarna    | 200 kr
-|       | Övriga                        | 300 kr
+|       | Barn och ungdomar i byarna    | 250 kr
+|       | Övriga                        | 350 kr
 | Möte/Kurs
-|       | Byns föreningar               | 200 kr
-|       | Övriga föreningar             | 400 kr
-|       | Företag, kommun               | 600 kr
+|       | Byns föreningar               | 250 kr
+|       | Övriga föreningar             | 450 kr
+|       | Företag, kommun               | 650 kr
 
 # Hitta hit
 
