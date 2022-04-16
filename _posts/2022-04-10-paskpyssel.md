@@ -9,7 +9,7 @@ På lördag är det påskafton och då får alla som vill, stora och små, komma
 Länkar till instruktioner för några av pysslen vi provar:
 - [Kyckling (video)](https://www.youtube.com/watch?v=85fBJtnYk7Q)
 - [Kanin av servett (video)](https://youtu.be/VBlHHkA2Zqw)
-- [Kanin (instruktion)](https://www.origami-tutorial.com/traditional-origami-rabbit-2.html)
+- [Kanin (instruktion)](https://www.origami-tutorial.com/traditional-origami-rabbit.html)
 - [Stjärna (instruktion)](https://quillingsupply.com/freemoravianstarinstructions)
 
 *Glad påsk!*
