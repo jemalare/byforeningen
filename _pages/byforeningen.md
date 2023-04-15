@@ -23,7 +23,7 @@ Byföreningen ansvarar för drift och underhåll av bystugan. Detta finansieras 
 </p>
 </div>
 
-Avgiften är 250 kr per hushåll, betalas till bankgiro 669-7213. Kom ihåg att ange ert namn vid insättning. Alternativt betala direkt till kassören. Byföreningen tar tacksamt emot gåvor. Ett gåvobrev har tagits fram som kan användas vid exempelvis uppvaktningar eller begravningar. Tag gärna kontakt med någon i styrelsen om du har något du vill bidra med.
+Avgiften är 250 kr per hushåll, betalas till bankgiro 669-7213. Kom ihåg att ange ert namn vid insättning. Alternativt betala direkt till kassören. Byföreningen tar tacksamt emot gåvor. Ett gåvobrev har tagits fram som kan användas vid exempelvis uppvaktningar eller begravningar. Tag gärna kontakt med någon i styrelsen om du har något du vill bidra med.
 
 # Aktiviteter
 
