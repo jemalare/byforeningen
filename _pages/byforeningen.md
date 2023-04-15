@@ -37,20 +37,20 @@ I kalendern nedan syns vilka aktiviteter som är planerade i närtid. Klicka på
 
 # Styrelsen
 
-Byföreningens styrelse efter val vid årsmötet söndagen den 13 mars 2022:
+Byföreningens styrelse efter val vid årsmöte lördagen den 1 april 2023:
 
 ## Ordinarie ledamöter
 
 | Namn               | Bor i      | Uppdrag           | Telefon     |
 | :----------------- | :--------- | :---------------- | :---------- |
-| Annie Gammelgård   | Nordåker   | Ordförande        | 0768-410952 |
+| Mimmi Ryde         | Nordåker   | Ordförande        |             |
 | Jens Målare        | Nordåker   | Sekreterare       | 0703-671263 |
 | Karl-Ivar Ehnström | Gagnefsbyn | Stugfogde         | 0705-683565 |
 | Dan Jensfelt       | Nordbäck   |                   | 0241-61928  |
 | Pelle Florell      | Gagnefsbyn | Kassör, stugfogde | 0703-282383 |
-| Manda Nahlbom      | Gagnefsbyn |
 | Daniel Enlöf       | Nordåker   |
 | Victor Solli       | Nordåker   |
+| Annie Gammelgård   | Nordåker   |
 
 # Dokument
 
