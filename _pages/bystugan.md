@@ -23,18 +23,20 @@ Se [information till hyresgäster](/till-bystugans-hyresgaster) för anvisningar
 
 Vid fester och barnkalas hyrs lokalen per dygn, kl. 12-12.
 
-| Ändamål | Hyresman                    | Pris
-|:-|:-|:-|
-| Fester
-|       | Medlem                        | 350 kr
-|       | Ej medlem                     | 650 kr
-| Kalas
-|       | Barn och ungdomar i byarna    | 250 kr
-|       | Övriga                        | 350 kr
-| Möte/Kurs
-|       | Byns föreningar               | 250 kr
-|       | Övriga föreningar             | 450 kr
-|       | Företag, kommun               | 650 kr
+| Ändamål   | Hyresman                   | Sommar | Vinter |
+|:----------|:---------------------------|:-------|:-------|
+| Fester    |                            |        |        |
+|           | Medlem                     | 300 kr | 400 kr |
+|           | Ej medlem                  | 600 kr | 700 kr |
+| Kalas     |                            |        |        |
+|           | Barn och ungdomar i byarna | 200 kr | 300 kr |
+|           | Övriga                     | 300 kr | 400 kr |
+| Möte/Kurs |                            |        |        |
+|           | Byns föreningar            | 200 kr | 300 kr |
+|           | Övriga föreningar          | 400 kr | 500 kr |
+|           | Företag, kommun            | 600 kr | 700 kr |
+
+Uthyrningstaxan är anpassad till årstid med hänsyn till elpris och förbrukning. Sommartid räknas från 1 april till 31 oktober.
 
 # Hitta hit
 
