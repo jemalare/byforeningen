@@ -54,4 +54,6 @@ Byföreningens styrelse efter val vid årsmöte lördagen den 1 april 2023:
 
 # Dokument
 
+- [Byföreningens årsmöte 2024](/assets/pdf/20240324T174616--årsmötesprotokoll__byföreningen.pdf)
+- [Byföreningens årsmöte 2023](/assets/pdf/2023-04-01 Byföreningens årsmötesprotokoll 2023.pdf)
 - [Byföreningens årsmöte 2022](/assets/doc/2022/2022-03-26%20Byf%C3%B6reningens%20%C3%A5rsm%C3%B6tesprotokoll%202022.pdf)
