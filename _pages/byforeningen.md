@@ -43,12 +43,11 @@ du vill bidra med.
 # Aktiviteter
 
 Ett av byföreningens uppdrag är att arrangera aktiviteter och
-tillfällen för möten mellan bybor. Varje år har vi vårbrasa och
-midsommarfirande samt arbetsdagar på våren och hösten. När det finns
-möjlighet ordnar vi luciafirande och något kring jul eller
-trettondagshelgen. Däremellan bjuder vi in till trivselkvällar i
-bystugan. Där finns servering av dryck och tilltugg, ibland även film
-för barnen.
+tillfällen för möten mellan bybor. Varje år har vi midsommarfirande
+och arbetsdagar på våren och hösten. När det finns möjlighet ordnar vi
+luciafirande och något kring jul och trettondagshelgen. Däremellan
+även ett antal soppluncher under vår och höst, samt några
+trivselkvällar i bystugan där det serveras dryck och tilltugg.
 
 <!--
 I kalendern nedan syns vilka aktiviteter som är planerade i
